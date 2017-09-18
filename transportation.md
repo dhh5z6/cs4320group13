@@ -1,6 +1,7 @@
-roads close to regular vehicles in the winter.
-main method of travel is skis, snowshoes, snowcoaches, and snowmobiles.
-http://www.yellowstonenationalparklodges.com/stay/plan/transportation/
+# Transportation Budget Estimate
+* roads close to regular vehicles in the winter.
+* main method of travel is skis, snowshoes, snowcoaches, and snowmobiles.
+* http://www.yellowstonenationalparklodges.com/stay/plan/transportation/
 * Mammoth Hot Springs Hotel is open in winter months, the only lodging available by vehicle
     * shuttle available from Bozeman airport to the Hotel
     * $75 per adult
@@ -15,7 +16,8 @@ http://www.yellowstonenationalparklodges.com/stay/plan/transportation/
     * $22 per adult
 * skis rental
     * $13 for full day, $9 for half
-    * 5 poles
+    * $5 poles
     * $8 boots
     * $2.50 gaiters
     * http://www.yellowstonenationalparklodges.com/shops/bear-den-ski-shops/
+## tentative budget per person: $450
