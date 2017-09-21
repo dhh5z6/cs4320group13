@@ -1,4 +1,4 @@
-# cs4320group13
+# Lodging : cs4320group13
 
 ##### Lodging
 
